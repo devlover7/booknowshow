@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/booknowshow/static/css/main.5f361e03.chunk.css",
-    "main.js": "/booknowshow/static/js/main.300c8204.chunk.js",
-    "main.js.map": "/booknowshow/static/js/main.300c8204.chunk.js.map",
-    "runtime-main.js": "/booknowshow/static/js/runtime-main.20ea1624.js",
-    "runtime-main.js.map": "/booknowshow/static/js/runtime-main.20ea1624.js.map",
-    "static/js/2.9082ff9f.chunk.js": "/booknowshow/static/js/2.9082ff9f.chunk.js",
-    "static/js/2.9082ff9f.chunk.js.map": "/booknowshow/static/js/2.9082ff9f.chunk.js.map",
-    "index.html": "/booknowshow/index.html",
-    "precache-manifest.db28b6207fbd43c39e55655cec009331.js": "/booknowshow/precache-manifest.db28b6207fbd43c39e55655cec009331.js",
-    "service-worker.js": "/booknowshow/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/booknowshow/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9082ff9f.chunk.js.LICENSE.txt": "/booknowshow/static/js/2.9082ff9f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/booknowshow/static/media/logo.5d5d9eef.svg"
+    "main.css": "/booknnowshow/static/css/main.739c4b2c.chunk.css",
+    "main.js": "/booknnowshow/static/js/main.06dc0917.chunk.js",
+    "main.js.map": "/booknnowshow/static/js/main.06dc0917.chunk.js.map",
+    "runtime-main.js": "/booknnowshow/static/js/runtime-main.83bcdea5.js",
+    "runtime-main.js.map": "/booknnowshow/static/js/runtime-main.83bcdea5.js.map",
+    "static/js/2.27d0ee08.chunk.js": "/booknnowshow/static/js/2.27d0ee08.chunk.js",
+    "static/js/2.27d0ee08.chunk.js.map": "/booknnowshow/static/js/2.27d0ee08.chunk.js.map",
+    "index.html": "/booknnowshow/index.html",
+    "precache-manifest.409a4282ab4e9ad536b28bf370cf348a.js": "/booknnowshow/precache-manifest.409a4282ab4e9ad536b28bf370cf348a.js",
+    "service-worker.js": "/booknnowshow/service-worker.js",
+    "static/css/main.739c4b2c.chunk.css.map": "/booknnowshow/static/css/main.739c4b2c.chunk.css.map",
+    "static/js/2.27d0ee08.chunk.js.LICENSE.txt": "/booknnowshow/static/js/2.27d0ee08.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/booknnowshow/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.20ea1624.js",
-    "static/js/2.9082ff9f.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.300c8204.chunk.js"
+    "static/js/runtime-main.83bcdea5.js",
+    "static/js/2.27d0ee08.chunk.js",
+    "static/css/main.739c4b2c.chunk.css",
+    "static/js/main.06dc0917.chunk.js"
   ]
 }
